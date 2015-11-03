@@ -7,7 +7,7 @@ $(document).on("pagecreate","#pageone",function(){
  	});                       
 
 	$('#taptext').on("tap",function(){
-    	alert("Stop tapping!");
+    	alert("Menda :p");
  	}); 
 
 	$('#swipetext').on("swipeleft",function(){
